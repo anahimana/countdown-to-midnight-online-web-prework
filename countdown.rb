@@ -15,5 +15,4 @@ end
 
 def countdown_with_sleep(number)
   sleep(1)
-  
-# puts countdown(3)
+end
