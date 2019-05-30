@@ -5,4 +5,4 @@ def countdown(number)
   while counter < 10
 end
 
-countdown()
+puts countdown
