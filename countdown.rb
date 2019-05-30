@@ -11,4 +11,4 @@ def countdown(number)
   end
 end
 
-# puts countdown(3)
+puts countdown(3)
