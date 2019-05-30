@@ -5,5 +5,6 @@ def countdown(number)
   while counter < number
   counter += 1
 end
+end
 
 puts countdown
