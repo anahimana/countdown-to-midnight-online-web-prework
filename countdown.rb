@@ -3,7 +3,7 @@
 def countdown(number)
   counter = 0
   while counter < number
-  counter -= 1
+  counter += 1
 end
 
 puts countdown
